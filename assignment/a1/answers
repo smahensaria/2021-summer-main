@@ -19,7 +19,7 @@
 # ------------------------------------------------------------------
 
 # Question 1 (/1): What is BinaryEntropy(0.86)?
-information_theory_code_1: 0.00000
+information_theory_code_1: 0.58424
 
 
 # ------------------------------------------------------------------
@@ -112,10 +112,7 @@ information_theory_c_6:
 # Question 1 (/1): According to async, which of the following is a word order that is NOT seen?
 # (This question is multiple choice.  Delete all but the correct answer).
 async_a_1: 
- - SVO
  - OVS
- - VSO
-
 
 
 ###################################################################
@@ -132,6 +129,4 @@ async_a_1:
 # Question 1 (/2): The problem with the dialog system is that?
 # (This question is multiple choice.  Delete all but the correct answer).
 readings_intro_a_1: 
- - It can generate coherent speech but it has no sense of humor.
  - It understands that certain patterns of symbols go together, but it doesn't have any common sense.
- - It can converse and stands on the verge of sentience.
