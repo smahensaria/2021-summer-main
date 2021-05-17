@@ -64,10 +64,10 @@ information_theory_b_3:
 # ------------------------------------------------------------------
 
 # Question 1 (/1): What is the Cross Entropy?
-information_theory_c_1: 0.00000
+information_theory_c_1: 0.73697
 
 # Question 2 (/1): What is the KL divergence?
-information_theory_c_2: 0.00000
+information_theory_c_2: 0.73697
 
 # Question 3 (/5): Do you actually need to compute everything?  (Hint... think of the value of most terms in the summation)
 # (This question is multiple choice.  Delete all but the correct answer).
