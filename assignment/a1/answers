@@ -50,14 +50,11 @@ information_theory_b_1_3: 10
 # (This question is multiple choice.  Delete all but the correct answer).
 information_theory_b_2: 
  - A
- - B
 
 # Question 3 (/1): Which has higher entropy?
 # (This question is multiple choice.  Delete all but the correct answer).
 information_theory_b_3: 
  - A
- - B
-
 
 # ------------------------------------------------------------------
 # | Section (C): Cross-Entropy and KL Divergence (10 points)  | 
