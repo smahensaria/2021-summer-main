@@ -60,7 +60,7 @@ neural_network_basics_c_2: 1
 neural_network_basics_d_1: 0.36915
 
 # Question 2 (/2): What is the cross-entropy loss if its label is negative?
-neural_network_basics_d_2: 0.06910
+neural_network_basics_d_2: 0.66463
 
 
 # ------------------------------------------------------------------
